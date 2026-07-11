@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Daniel 🌶️
 
 Dev full-stack: web, mobile e backend. 8+ anos entregando sistemas — hoje sou
-o responsável técnico do **Real33** (plataforma para corretores imobiliários)
+o responsável técnico de uma plataforma para corretores imobiliários
 e mantenho produtos próprios em produção.
 
 **Produtos:**
