@@ -13,4 +13,6 @@ e mantenho produtos próprios em produção.
 
 **Coisas que me divertem:** engenharia reversa ([ressuscitei um smartwatch órfão de servidor](https://github.com/daniel-pimenta-cc/heyplus-w2100-unbrick)), eletrônica, arte 3D e crochê.
 
-🌐 [dspimenta.com](https://dspimenta.com) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-pimenta-9735231a8/) · 📬 danipimentasousa@gmail.com
+📍 Minas Gerais, Brasil · remoto
+
+🌐 [dspimenta.com](https://dspimenta.com) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-pimenta-cc/) · 📬 danipimentasousa@gmail.com
